@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in fasteners.gemspec
 gemspec
+
+gem 'units', github: 'bfoz/units-ruby'
